@@ -1,11 +1,13 @@
 about:
-  description: git remote helper to interact with mercurial repositories
+  description:
+  |
+    git remote helper to interact with mercurial repositories
   license: GPL-2.0
   homepage: 
   head: 4ce1dde
   archived: false
   latestVersion: 0.7.5
-  collectedAt: 2026-09-03T05:11:26Z
+  collectedAt: 2026-09-03T22:38:40Z
 timeline:
   created: 2014-12-05
   lastCommit: 2026-09-01
@@ -26,7 +28,7 @@ language:
   Makefile: 18371
   Shell: 16418
   sed: 53
-totalLine: 1014525
+totalBytes: 1014525
 recent:
   last30d:
     since: 2026-08-04
