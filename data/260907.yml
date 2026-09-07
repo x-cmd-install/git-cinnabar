@@ -5,7 +5,7 @@ about:
   head: a0d2682
   archived: false
   latestVersion: "0.7.5"
-  collectedAt: 2026-09-07T04:52:22Z
+  collectedAt: 2026-09-07T19:31:46Z
 timeline:
   created: 2014-12-05
   lastCommit: 2026-09-01
@@ -85,7 +85,7 @@ total:
   commit: 3686
 ---
 path: /home/runner/.x-repo/github.com/glandium/git-cinnabar
-collectedAt: 2026-09-07T04:52:24Z
+collectedAt: 2026-09-07T19:31:48Z
 loc:
   Rust:
     code: 17268
@@ -136,7 +136,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:52:25+00:00
+  collectedAt: 2026-09-07T19:31:49+00:00
   platform:
     darwin/arm64:
       name:  git-cinnabar.macos.arm64.tar.xz
