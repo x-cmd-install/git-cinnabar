@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2103904,
       "digest": "sha256:bf10216589af63f9470f4d7eaf2e8a78cd0b9400c7c09e8b02e8d590f087fc88",
-      "download_count": 2083,
+      "download_count": 2216,
       "created_at": "2026-09-01T05:20:59Z",
       "updated_at": "2026-09-01T05:21:00Z",
       "browser_download_url": "https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.linux.x86_64.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1784244,
       "digest": "sha256:3a5372f7d96eeba6fdf42e2e9b2d938d84c53eca08ba1d8ac8111c8ceb2aca79",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-09-01T05:21:03Z",
       "updated_at": "2026-09-01T05:21:04Z",
       "browser_download_url": "https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.macos.arm64.tar.xz"
