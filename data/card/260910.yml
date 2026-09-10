@@ -7,7 +7,7 @@ about:
   latestVersion: "0.7.5"
   latestRelease: "0.7.5"
   latestPrerelease: "0.7.0beta2"
-  collectedAt: 2026-09-10T16:50:12Z
+  collectedAt: 2026-09-10T21:46:26Z
 timeline:
   created: 2014-12-05
   lastCommit: 2026-09-01
@@ -89,7 +89,7 @@ total:
   commit: 3686
 ---
 path: /home/runner/.x-repo/github.com/glandium/git-cinnabar
-collectedAt: 2026-09-10T16:50:21Z
+collectedAt: 2026-09-10T21:46:28Z
 loc:
   Rust:
     code: 17268
