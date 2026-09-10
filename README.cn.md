@@ -4,7 +4,7 @@
 
 git remote helper to interact with mercurial repositories
 
-![git-cinnabar](https://repo.x-cmd.io/git-cinnabar.svg)
+![git-cinnabar](https://repo.x-cmd.io/git-cinnabar.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,16 @@ x install git-cinnabar
 - **最新版本**: `0.7.5` (2026-09-01)
 - **最近提交**: 2026-09-01
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-09-01T05:21:10Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [git-cinnabar.linux.arm64.tar.xz](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.linux.arm64.tar.xz) | 1.8 MiB | `native/linux/arm64` |
+| [git-cinnabar.linux.x86_64.tar.xz](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.linux.x86_64.tar.xz) | 2.0 MiB | `native/linux/x64` |
+| [git-cinnabar.macos.arm64.tar.xz](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.macos.arm64.tar.xz) | 1.7 MiB | `native/darwin/arm64` |
+| [git-cinnabar.macos.x86_64.tar.xz](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.macos.x86_64.tar.xz) | 2.0 MiB | `native/darwin/x64` |
+| [git-cinnabar.windows.x86_64.zip](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.windows.x86_64.zip) | 6.7 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +70,4 @@ git-cinnabar 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:47:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:50:36Z._

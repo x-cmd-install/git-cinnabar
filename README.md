@@ -22,7 +22,16 @@ x install git-cinnabar
 - **Latest**: `0.7.5` (2026-09-01)
 - **Last commit**: 2026-09-01
 - **Assets in release**: 5
-- **Published**: 2026-09-01T05:21:10Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [git-cinnabar.linux.arm64.tar.xz](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.linux.arm64.tar.xz) | 1.8 MiB | `native/linux/arm64` |
+| [git-cinnabar.linux.x86_64.tar.xz](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.linux.x86_64.tar.xz) | 2.0 MiB | `native/linux/x64` |
+| [git-cinnabar.macos.arm64.tar.xz](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.macos.arm64.tar.xz) | 1.7 MiB | `native/darwin/arm64` |
+| [git-cinnabar.macos.x86_64.tar.xz](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.macos.x86_64.tar.xz) | 2.0 MiB | `native/darwin/x64` |
+| [git-cinnabar.windows.x86_64.zip](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.windows.x86_64.zip) | 6.7 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +66,8 @@ Total: **22,765** lines of code across **73** files in the top 5 languages.
 Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-cinnabar` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/git-cinnabar.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/git-cinnabar.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:47:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:50:35Z._
