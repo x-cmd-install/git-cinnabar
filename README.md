@@ -1,24 +1,64 @@
 # git-cinnabar
 
+[中文版本](./README.cn.md)
+
 git remote helper to interact with mercurial repositories
 
-- **Upstream**: <https://github.com/glandium/git-cinnabar>
-- **Homepage**: <>
-- **Latest release**: `0.7.5` (2026-09-01)
-- **Last commit**: 2026-09-01
-- **License**: GPL-2.0
-- **Stars**: 318 · **Forks**: 63 · **Open issues**: 291 · **Contributors**: 22
+![git-cinnabar](https://repo.x-cmd.io/git-cinnabar.svg)
 
-## Installation
+## Install
 
 ```sh
 x install git-cinnabar
 ```
 
-See <https://x-cmd.com/install/git-cinnabar> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/glandium/git-cinnabar>
+- **License**: GPL-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:22:46Z._
+- **Latest**: `0.7.5` (2026-09-01)
+- **Last commit**: 2026-09-01
+- **Assets in release**: 5
+- **Published**: 2026-09-01T05:21:10Z
+
+## Popularity
+
+- **Stars**: 318 · **Forks**: 63 · **Open issues**: 291 · **Contributors**: 22
+
+## Totals (cumulative)
+
+- **Releases**: 44 · **Merged PRs**: 31 · **Open PRs**: 1 · **Closed issues**: 258 · **Open issues**: 33 · **Commits**: 3686
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 1 | 6 |
+| 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 1 | 24 |
+| 360d | 2025-09-15 | 2 | 0 | 1 | 1 | 3 | 60 |
+
+## Code size
+
+Total: **22,765** lines of code across **73** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 17,268 | 545 | 1,695 | 32 |
+| Python | 3,509 | 129 | 512 | 20 |
+| C | 1,082 | 100 | 191 | 8 |
+| Makefile | 365 | 18 | 94 | 3 |
+| CHeader | 310 | 28 | 102 | 10 |
+
+## Improve this data
+
+Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-cinnabar` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/git-cinnabar.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:47:03Z._
