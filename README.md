@@ -71,7 +71,7 @@ Reported by **29** distros on [repology.org](https://repology.org/project/git-ci
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.7.5` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.7.5` | ✅ latest |
 | Nix unstable | `0.7.3` | ⚠️ outdated |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:48:05Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:11:32Z._
