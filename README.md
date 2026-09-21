@@ -4,7 +4,7 @@
 
 git remote helper to interact with mercurial repositories
 
-![git-cinnabar](https://repo.x-cmd.io/git-cinnabar.svg)
+[![x-cmd/install — git-cinnabar Code Quality Monitoring Repo Card](https://repo.x-cmd.io/git-cinnabar.svg)](https://x-cmd.com/install/git-cinnabar)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **22,765** lines of code across **73** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 0 | 1 | 6 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 0 | 1 | 6 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 0 | 1 | 24 |
-| last180d | 2026-03-22 | 2 | 0 | 0 | 1 | 2 | 31 |
-| 360d | 2025-09-23 | 2 | 0 | 1 | 1 | 3 | 60 |
-| last720d | 2024-09-28 | 7 | 4 | 1 | 11 | 7 | 214 |
+| 30d | 2026-08-22 | 1 | 0 | 0 | 0 | 1 | 6 |
+| last60d | 2026-07-23 | 1 | 0 | 0 | 0 | 1 | 6 |
+| 90d | 2026-06-23 | 1 | 0 | 0 | 0 | 1 | 24 |
+| last180d | 2026-03-25 | 2 | 0 | 0 | 1 | 2 | 31 |
+| 360d | 2025-09-26 | 2 | 0 | 1 | 1 | 3 | 60 |
+| last720d | 2024-10-01 | 6 | 4 | 1 | 11 | 7 | 212 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:52:54Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:00:24Z._
