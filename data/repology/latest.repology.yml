@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: git-cinnabar
+  binname: git-cinnabar
+  visiblename: git-cinnabar
+  version: 0.7.5
+  origversion: 0.7.5-1
+  status: newest
+  summary: Git remote helper to interact with Mercurial repositories
+  licenses:
+    - GPL-2.0-only AND MPL-2.0
 - repo: aosc
   srcname: app-vcs/git-cinnabar
   binname: git-cinnabar
@@ -206,17 +217,6 @@
   licenses:
     - GPL-2.0-only AND MPL-2.0
 - repo: manjaro_testing
-  subrepo: extra
-  srcname: git-cinnabar
-  binname: git-cinnabar
-  visiblename: git-cinnabar
-  version: 0.7.5
-  origversion: 0.7.5-1
-  status: newest
-  summary: Git remote helper to interact with Mercurial repositories
-  licenses:
-    - GPL-2.0-only AND MPL-2.0
-- repo: manjaro_unstable
   subrepo: extra
   srcname: git-cinnabar
   binname: git-cinnabar
