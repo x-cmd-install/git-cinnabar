@@ -14,12 +14,12 @@ x install git-cinnabar
 
 ## Code insight
 
-Total: **22,765** lines of code across **73** files in the top 5 languages.
+Total: **22,806** lines of code across **73** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 17,268 | 545 | 1,695 | 32 |
-| Python | 3,509 | 129 | 512 | 20 |
+| Rust | 17,302 | 545 | 1,695 | 32 |
+| Python | 3,512 | 132 | 512 | 20 |
 | C | 1,082 | 100 | 191 | 8 |
 | Makefile | 365 | 18 | 94 | 3 |
 | CHeader | 310 | 28 | 102 | 10 |
@@ -32,7 +32,7 @@ Total: **22,765** lines of code across **73** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.7.5` (2026-09-01)
-- **Last commit**: 2026-09-01
+- **Last commit**: 2026-10-31
 - **Assets in release**: 5
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **22,765** lines of code across **73** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 31 · **Open PRs**: 1 · **Closed issues**: 258 · **Open issues**: 33 · **Commits**: 3686
+- **Releases**: 44 · **Merged PRs**: 31 · **Open PRs**: 1 · **Closed issues**: 258 · **Open issues**: 33 · **Commits**: 3696
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 1 | 0 | 0 | 0 | 1 | 6 |
-| last180d | 2026-05-03 | 1 | 0 | 0 | 0 | 2 | 29 |
-| 360d | 2025-11-04 | 2 | 0 | 1 | 1 | 3 | 47 |
-| last720d | 2024-11-09 | 6 | 4 | 1 | 8 | 5 | 202 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 9 |
+| last60d | 2026-09-01 | 1 | 0 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-02 | 1 | 0 | 0 | 0 | 1 | 16 |
+| last180d | 2026-05-04 | 1 | 0 | 0 | 0 | 2 | 39 |
+| 360d | 2025-11-05 | 2 | 0 | 1 | 1 | 3 | 57 |
+| last720d | 2024-11-10 | 6 | 4 | 1 | 8 | 5 | 212 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:49:21Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:41:58Z._
