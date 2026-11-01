@@ -14,11 +14,11 @@ x install git-cinnabar
 
 ## Code insight
 
-Total: **22,806** lines of code across **73** files in the top 5 languages.
+Total: **22,813** lines of code across **73** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 17,302 | 545 | 1,695 | 32 |
+| Rust | 17,309 | 545 | 1,695 | 32 |
 | Python | 3,512 | 132 | 512 | 20 |
 | C | 1,082 | 100 | 191 | 8 |
 | Makefile | 365 | 18 | 94 | 3 |
@@ -41,18 +41,18 @@ Total: **22,806** lines of code across **73** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 31 · **Open PRs**: 1 · **Closed issues**: 258 · **Open issues**: 33 · **Commits**: 3696
+- **Releases**: 44 · **Merged PRs**: 31 · **Open PRs**: 1 · **Closed issues**: 259 · **Open issues**: 32 · **Commits**: 3698
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 9 |
-| last60d | 2026-09-01 | 1 | 0 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-02 | 1 | 0 | 0 | 0 | 1 | 16 |
-| last180d | 2026-05-04 | 1 | 0 | 0 | 0 | 2 | 39 |
-| 360d | 2025-11-05 | 2 | 0 | 1 | 1 | 3 | 57 |
-| last720d | 2024-11-10 | 6 | 4 | 1 | 8 | 5 | 212 |
+| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 11 |
+| 90d | 2026-08-03 | 1 | 0 | 0 | 0 | 1 | 18 |
+| last180d | 2026-05-05 | 1 | 0 | 0 | 0 | 2 | 41 |
+| 360d | 2025-11-06 | 2 | 0 | 1 | 1 | 3 | 59 |
+| last720d | 2024-11-11 | 6 | 4 | 1 | 9 | 4 | 214 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:41:58Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:05:03Z._
