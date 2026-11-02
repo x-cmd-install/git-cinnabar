@@ -1,3 +1,19 @@
+- repo: fedora_40
+  subrepo: release
+  srcname: git-cinnabar
+  binnames:
+    - git-cinnabar
+    - git-cinnabar-debuginfo
+    - git-cinnabar-debugsource
+  visiblename: git-cinnabar
+  version: 0.5.10
+  origversion: 0.5.10-5.fc40
+  status: outdated
+  summary: Git remote helper to interact with mercurial repositories
+  licenses:
+    - GPLv2
+  categories:
+    - Unspecified
 - repo: aosc
   srcname: app-vcs/git-cinnabar
   binname: git-cinnabar
@@ -49,7 +65,7 @@
     - GPLv2
   categories:
     - Unspecified
-- repo: fedora_40
+- repo: fedora_41
   subrepo: release
   srcname: git-cinnabar
   binnames:
@@ -59,7 +75,7 @@
   visiblename: git-cinnabar
   version: 0.5.10
   origversion: 0.5.10-5.fc40
-  status: outdated
+  status: legacy
   summary: Git remote helper to interact with mercurial repositories
   licenses:
     - GPLv2
@@ -79,7 +95,7 @@
     - GPL-2.0-only
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_42
   subrepo: release
   srcname: git-cinnabar
   binnames:
@@ -107,22 +123,6 @@
   summary: Git remote helper to interact with mercurial repositories
   licenses:
     - GPL-2.0-only
-  categories:
-    - Unspecified
-- repo: fedora_42
-  subrepo: release
-  srcname: git-cinnabar
-  binnames:
-    - git-cinnabar
-    - git-cinnabar-debuginfo
-    - git-cinnabar-debugsource
-  visiblename: git-cinnabar
-  version: 0.5.10
-  origversion: 0.5.10-5.fc40
-  status: legacy
-  summary: Git remote helper to interact with mercurial repositories
-  licenses:
-    - GPLv2
   categories:
     - Unspecified
 - repo: fedora_43
