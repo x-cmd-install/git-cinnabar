@@ -1,31 +1,3 @@
-- repo: fedora_40
-  subrepo: release
-  srcname: git-cinnabar
-  binnames:
-    - git-cinnabar
-    - git-cinnabar-debuginfo
-    - git-cinnabar-debugsource
-  visiblename: git-cinnabar
-  version: 0.5.10
-  origversion: 0.5.10-5.fc40
-  status: outdated
-  summary: Git remote helper to interact with mercurial repositories
-  licenses:
-    - GPLv2
-  categories:
-    - Unspecified
-- repo: aosc
-  srcname: app-vcs/git-cinnabar
-  binname: git-cinnabar
-  visiblename: git-cinnabar
-  version: 0.7.3
-  origversion: null
-  status: outdated
-  summary: git remote helper to interact with mercurial repositories
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - vcs
 - repo: arch
   subrepo: extra
   srcname: git-cinnabar
@@ -59,6 +31,57 @@
   visiblename: git-cinnabar
   version: 0.5.10
   origversion: 0.5.10-3.fc39
+  status: outdated
+  summary: Git remote helper to interact with mercurial repositories
+  licenses:
+    - GPLv2
+  categories:
+    - Unspecified
+- repo: openbsd
+  srcname: devel/git-cinnabar
+  binname: git-cinnabar
+  visiblename: devel/git-cinnabar
+  version: 0.7.5
+  origversion: null
+  status: newest
+  summary: git remote helper to interact with mercurial repositories
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - devel
+- repo: parabola
+  subrepo: extra
+  srcname: git-cinnabar
+  binname: git-cinnabar
+  visiblename: git-cinnabar
+  version: 0.7.5
+  origversion: 0.7.5-1
+  status: newest
+  summary: Git remote helper to interact with Mercurial repositories
+  licenses:
+    - GPL-2.0-only AND MPL-2.0
+- repo: aosc
+  srcname: app-vcs/git-cinnabar
+  binname: git-cinnabar
+  visiblename: git-cinnabar
+  version: 0.7.3
+  origversion: null
+  status: outdated
+  summary: git remote helper to interact with mercurial repositories
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - vcs
+- repo: fedora_40
+  subrepo: release
+  srcname: git-cinnabar
+  binnames:
+    - git-cinnabar
+    - git-cinnabar-debuginfo
+    - git-cinnabar-debugsource
+  visiblename: git-cinnabar
+  version: 0.5.10
+  origversion: 0.5.10-5.fc40
   status: outdated
   summary: Git remote helper to interact with mercurial repositories
   licenses:
@@ -194,28 +217,6 @@
     - GPL-2
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: git-cinnabar
-  binname: git-cinnabar
-  visiblename: git-cinnabar
-  version: 0.7.5
-  origversion: 0.7.5-1
-  status: newest
-  summary: Git remote helper to interact with Mercurial repositories
-  licenses:
-    - GPL-2.0-only AND MPL-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: git-cinnabar
-  binname: git-cinnabar
-  visiblename: git-cinnabar
-  version: 0.7.5
-  origversion: 0.7.5-1
-  status: newest
-  summary: Git remote helper to interact with Mercurial repositories
-  licenses:
-    - GPL-2.0-only AND MPL-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: git-cinnabar
@@ -293,29 +294,6 @@
     - hi@alyssa.is
   licenses:
     - GPL-2.0-only
-- repo: openbsd
-  srcname: devel/git-cinnabar
-  binname: git-cinnabar
-  visiblename: devel/git-cinnabar
-  version: 0.7.5
-  origversion: null
-  status: newest
-  summary: git remote helper to interact with mercurial repositories
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - devel
-- repo: parabola
-  subrepo: extra
-  srcname: git-cinnabar
-  binname: git-cinnabar
-  visiblename: git-cinnabar
-  version: 0.7.5
-  origversion: 0.7.5-1
-  status: newest
-  summary: Git remote helper to interact with Mercurial repositories
-  licenses:
-    - GPL-2.0-only AND MPL-2.0
 - repo: pkgsrc_2026_2
   srcname: devel/git-cinnabar
   binname: git-cinnabar
