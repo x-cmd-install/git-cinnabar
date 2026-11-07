@@ -37,22 +37,22 @@ Total: **22,813** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 319 · **Forks**: 63 · **Open issues**: 291 · **Contributors**: 22
+- **Stars**: 319 · **Forks**: 63 · **Open issues**: 292 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 31 · **Open PRs**: 1 · **Closed issues**: 260 · **Open issues**: 31 · **Commits**: 3698
+- **Releases**: 44 · **Merged PRs**: 31 · **Open PRs**: 1 · **Closed issues**: 260 · **Open issues**: 32 · **Commits**: 3698
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 11 |
-| 90d | 2026-08-08 | 1 | 0 | 0 | 1 | 0 | 18 |
-| last180d | 2026-05-10 | 1 | 0 | 0 | 1 | 1 | 41 |
-| 360d | 2025-11-11 | 2 | 0 | 1 | 2 | 2 | 59 |
-| last720d | 2024-11-16 | 6 | 4 | 1 | 10 | 3 | 214 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 1 | 11 |
+| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 1 | 11 |
+| 90d | 2026-08-09 | 1 | 0 | 0 | 1 | 1 | 18 |
+| last180d | 2026-05-11 | 1 | 0 | 0 | 1 | 1 | 41 |
+| 360d | 2025-11-12 | 2 | 0 | 1 | 2 | 3 | 59 |
+| last720d | 2024-11-17 | 6 | 4 | 1 | 10 | 4 | 214 |
 
 ## Release assets
 
@@ -66,7 +66,7 @@ Total: **22,813** lines of code across **73** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **27** distros on [repology.org](https://repology.org/project/git-cinnabar). **6** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **29** distros on [repology.org](https://repology.org/project/git-cinnabar). **8** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:41:37Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:03:48Z._
