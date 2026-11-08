@@ -37,7 +37,7 @@ Total: **22,813** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 319 · **Forks**: 63 · **Open issues**: 292 · **Contributors**: 22
+- **Stars**: 320 · **Forks**: 63 · **Open issues**: 292 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **22,813** lines of code across **73** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 1 | 11 |
-| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 1 | 11 |
-| 90d | 2026-08-09 | 1 | 0 | 0 | 1 | 1 | 18 |
-| last180d | 2026-05-11 | 1 | 0 | 0 | 1 | 1 | 41 |
-| 360d | 2025-11-12 | 2 | 0 | 1 | 2 | 3 | 59 |
-| last720d | 2024-11-17 | 6 | 4 | 1 | 10 | 4 | 214 |
+| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 1 | 11 |
+| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 1 | 11 |
+| 90d | 2026-08-10 | 1 | 0 | 0 | 1 | 1 | 18 |
+| last180d | 2026-05-12 | 1 | 0 | 0 | 1 | 1 | 41 |
+| 360d | 2025-11-13 | 2 | 0 | 1 | 2 | 3 | 58 |
+| last720d | 2024-11-18 | 6 | 4 | 1 | 10 | 4 | 214 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:03:48Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:12:44Z._
