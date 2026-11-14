@@ -1,3 +1,14 @@
+- repo: nix_stable_25_05
+  srcname: git-cinnabar
+  visiblename: git-cinnabar
+  version: 0.7.3
+  origversion: null
+  status: outdated
+  summary: git remote helper to interact with mercurial repositories
+  maintainers:
+    - hi@alyssa.is
+  licenses:
+    - GPL-2.0-only
 - repo: aosc
   srcname: app-vcs/git-cinnabar
   binname: git-cinnabar
@@ -66,6 +77,22 @@
   categories:
     - Unspecified
 - repo: fedora_41
+  subrepo: release
+  srcname: git-cinnabar
+  binnames:
+    - git-cinnabar
+    - git-cinnabar-debuginfo
+    - git-cinnabar-debugsource
+  visiblename: git-cinnabar
+  version: 0.5.10
+  origversion: 0.5.10-5.fc40
+  status: legacy
+  summary: Git remote helper to interact with mercurial repositories
+  licenses:
+    - GPLv2
+  categories:
+    - Unspecified
+- repo: fedora_41
   subrepo: updates
   srcname: git-cinnabar
   binnames:
@@ -79,7 +106,7 @@
     - GPL-2.0-only
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_42
   subrepo: release
   srcname: git-cinnabar
   binnames:
@@ -107,22 +134,6 @@
   summary: Git remote helper to interact with mercurial repositories
   licenses:
     - GPL-2.0-only
-  categories:
-    - Unspecified
-- repo: fedora_42
-  subrepo: release
-  srcname: git-cinnabar
-  binnames:
-    - git-cinnabar
-    - git-cinnabar-debuginfo
-    - git-cinnabar-debugsource
-  visiblename: git-cinnabar
-  version: 0.5.10
-  origversion: 0.5.10-5.fc40
-  status: legacy
-  summary: Git remote helper to interact with mercurial repositories
-  licenses:
-    - GPLv2
   categories:
     - Unspecified
 - repo: fedora_43
@@ -242,17 +253,6 @@
   srcname: git-cinnabar
   visiblename: git-cinnabar
   version: 0.6.3
-  origversion: null
-  status: outdated
-  summary: git remote helper to interact with mercurial repositories
-  maintainers:
-    - hi@alyssa.is
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_05
-  srcname: git-cinnabar
-  visiblename: git-cinnabar
-  version: 0.7.3
   origversion: null
   status: outdated
   summary: git remote helper to interact with mercurial repositories
