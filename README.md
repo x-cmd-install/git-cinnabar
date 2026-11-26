@@ -47,12 +47,12 @@ Total: **22,813** lines of code across **73** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 1 | 11 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 1 | 11 |
-| 90d | 2026-08-27 | 1 | 0 | 0 | 0 | 1 | 18 |
-| last180d | 2026-05-29 | 1 | 0 | 0 | 1 | 1 | 37 |
-| 360d | 2025-11-30 | 2 | 0 | 1 | 2 | 3 | 57 |
-| last720d | 2024-12-05 | 6 | 4 | 1 | 8 | 4 | 214 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-28 | 1 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-30 | 1 | 0 | 0 | 1 | 1 | 0 |
+| 360d | 2025-12-01 | 2 | 0 | 1 | 2 | 3 | 0 |
+| last720d | 2024-12-06 | 6 | 4 | 1 | 8 | 4 | 214 |
 
 ## Release assets
 
@@ -64,6 +64,16 @@ Total: **22,813** lines of code across **73** files in the top 5 languages.
 | [git-cinnabar.macos.x86_64.tar.xz](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.macos.x86_64.tar.xz) | 2.0 MiB | `native/darwin/x64` |
 | [git-cinnabar.windows.x86_64.zip](https://github.com/glandium/git-cinnabar/releases/download/0.7.5/git-cinnabar.windows.x86_64.zip) | 6.7 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **29** distros on [repology.org](https://repology.org/project/git-cinnabar). **8** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.7.5` | ✅ latest |
+| Homebrew | `0.7.5` | ✅ latest |
+| Nix unstable | `0.7.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-cinnabar` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +83,4 @@ Install metadata for git-cinnabar lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:22:06Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:16:11Z._
